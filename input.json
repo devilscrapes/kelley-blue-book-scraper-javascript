@@ -1,0 +1,15 @@
+{
+  "vehicles": [
+    {
+      "make": "toyota",
+      "model": "camry",
+      "year": 2021
+    }
+  ],
+  "vehicleSlugs": [
+    "ford/f-150/2022"
+  ],
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}
